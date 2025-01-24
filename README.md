@@ -1,5 +1,15 @@
 # IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency
 
+<table class="center">
+    <tr>
+    <td width=100% style="border: none"><img src="assets/Diagram.png" style="width:100%"></td>
+    </tr>
+    <tr>
+    <td width="100%" style="border: none; text-align: center; word-wrap: break-word">Overview of DPO-Diff pipeline.
+</td>
+  </tr>
+</table>
+
 ## Abstract
 Text-to-Image Diffusion models excel at generating images from text prompts but often lack optimal alignment with content semantics, 
 aesthetics, and human preferences. To address these issues, in this study we introduce a novel framework, 
