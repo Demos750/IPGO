@@ -30,13 +30,13 @@ To run the Colab Notebook, please:
 1. Run the first several cells to make sure the environment is updated.
 2. Replace the directory placeholders in the "Directories" cell by the desired directories:
    
-   (a) AESTHETIC_MODEL_PATH: the path for aesthetic scorer model, can be found in asset folder.
+   (a) **AESTHETIC_MODEL_PATH**: the path for aesthetic scorer model, can be found in asset folder.
    
-   (b) PROMPT_DATA_PATH: the path for prompt data, txt file.
+   (b) **PROMPT_DATA_PATH**: the path for prompt data, txt file.
 
-   (c) INDIVIDUAL_TRAINING_PATH: the folder path for saving individual training results.
+   (c) **INDIVIDUAL_TRAINING_PATH**: the folder path for saving individual training results.
 
-   (d) BATCH_TRAINING_PATH: the folder path for saving batch training results.
+   (d) **BATCH_TRAINING_PATH**: the folder path for saving batch training results.
 
 ### GPU
 Current implementation only needs one L4 GPU provided by Colab at most in all possible scenarios. 
